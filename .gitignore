@@ -1,0 +1,10 @@
+#ignore Mac .DS_Store file
+.DS_Store
+
+#ignore python virtual environment and python cache
+__pycache__/
+env/
+
+#ignore npm node_modules
+node_modules/
+ 
